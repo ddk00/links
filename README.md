@@ -26,3 +26,7 @@ http://www.dfir.org/?q=node/8
 https://www.owasp.org/index.php/The_OWASP_Testing_Framework
 
 http://www.pentest-standard.org
+
+
+
+https://www.reddit.com/r/netsec/
