@@ -1,6 +1,8 @@
 # links
 PenTest  helpful links
 
+https://backdoorshell.gitbooks.io/oscp-useful-links/content
+
 https://pentest-tools.com
 
 http://pwnwiki.io
