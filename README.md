@@ -30,3 +30,6 @@ http://www.pentest-standard.org
 
 
 https://www.reddit.com/r/netsec/
+
+WEB
+https://gchq.github.io/CyberChef/
