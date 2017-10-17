@@ -33,3 +33,5 @@ https://www.reddit.com/r/netsec/
 
 WEB
 https://gchq.github.io/CyberChef/
+
+https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
