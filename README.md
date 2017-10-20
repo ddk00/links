@@ -36,10 +36,15 @@ https://www.owasp.org/index.php/The_OWASP_Testing_Framework
 http://www.pentest-standard.org
 
 
-
 https://www.reddit.com/r/netsec/
 
-WEB
+
+Crypto
+
 https://gchq.github.io/CyberChef/
+
+
+WEB
+
 
 https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
