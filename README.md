@@ -6,6 +6,11 @@ Cheat Sheets
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
 
+Win Priv Esc
+
+http://www.exumbraops.com/penetration-testing-102-windows-privilege-escalation-cheatsheet/
+
+
 
 
 
