@@ -5,6 +5,8 @@ Cheat Sheets
 
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
+http://hackingandsecurity.blogspot.com.es/2017/09/oscp-tricks.html?view=classic
+
 
 Win Priv Esc
 
