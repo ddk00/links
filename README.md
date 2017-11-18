@@ -57,4 +57,10 @@ WEB
 https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 
 Escaping jailed UNIX shell
+
 https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells
+
+
+Logging
+
+https://www.contextis.com/blog/logging-like-a-lumberjack
